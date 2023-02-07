@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+body {
+	background-image:
+		url("/student-management/URLToReachImageFolder/addStudent.png");
+	color: white;
+	font-family: 'Comic Sans MS';
+}

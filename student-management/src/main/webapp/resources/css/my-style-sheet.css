@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+.h1 {
+	color: red;
+}
+
+.myFonts {
+	font-size : 20px;
+	font-family: 'Comic Sans MS';
+}
+
+.myButton {
+	color : white;
+	background-color: green;
+	border: 2px solid black;
+	font-size: 24px;
+	padding: 10px 10px 10px 10px;
+	transition-duration:0.5s;
+}
+
+.myButton:hover {
+	color: black;
+	background-color: yellow;
+}
